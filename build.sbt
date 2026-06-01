@@ -1,7 +1,7 @@
-name          := "htwg-scala-seed"
+name          := "starrealms"
 organization  := "de.htwg.se"
 version       := "0.0.1"
-scalaVersion  := "2.12.4"
+scalaVersion  := "3.8.3"
 
 libraryDependencies += "org.scalatest" %% "scalatest" % "3.0.4" % "test"
 

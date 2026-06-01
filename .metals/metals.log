@@ -1,0 +1,5 @@
+2026.06.01 13:07:31 INFO  Started: Metals version 1.6.7 in folders '/Users/kianimoon/se/htwg-scala-seed' for client Visual Studio Code 1.93.1.
+2026.06.01 13:07:31 INFO  Memory monitor started
+2026.06.01 13:07:31 WARN  Using H2 2.4.240 which is newer than the version Flyway has been verified with. The latest verified version of H2 is 2.3.232.
+2026.06.01 13:07:31 WARN  Unsupported sbt version 0.13.16
+2026.06.01 13:07:31 WARN  Build server is not auto-connectable.
